@@ -1,0 +1,80 @@
+version: 1.0
+scripts:
+  map_0/duckie_0:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_1:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_2:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_3:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_4:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_5:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_6:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_7:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_8:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_9:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_10:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_11:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_12:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_13:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_14:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_15:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_16:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_17:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_18:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_19:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_20:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_21:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_22:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_23:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_24:
+    scripts:
+      - RandomDuckiePlacement
+  map_0/duckie_25:
+    scripts:
+      - RandomDuckiePlacement

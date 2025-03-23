@@ -271,32 +271,15 @@ frames:
   map_0/vehicle_0:
     relative_to: ~
     pose:
-      x: 0.8799999999999999
-      y: 0.18499999999999986
+      x: 0.0
+      y: 0.0
       z: 0
       roll: 0
       pitch: 0
-      yaw: 0.0
-  map_0/vehicle_1:
-    relative_to: ~
-    pose:
-      x: 0.88
-      y: 0.99
-      z: 0
-      roll: 0
-      pitch: 0
-      yaw: 0.0
-  map_0/groundtag_300:
-    relative_to: ~
-    pose:
-      x: 0.86
-      y: 2.045
-      z: 0
-      roll: 0
-      pitch: 0
-      yaw: 0.0
+      yaw: 0.785398
   map_0/duckie_0:
     relative_to: ~
+    unit: tiles
     pose:
       x: 1.8
       y: 0.85
@@ -304,24 +287,257 @@ frames:
       roll: 0
       pitch: 0
       yaw: 0.0
-  map_0/billboard_1:
+  map_0/duckie_1:
     relative_to: ~
+    unit: tiles
     pose:
-      x: 1.0
-      y: -0.24
+      x: 1.8
+      y: 0.85
       z: 0
       roll: 0
       pitch: 0
-      yaw: 0
-  map_0/street_light_0:
+      yaw: 0.0
+  map_0/duckie_2:
     relative_to: ~
+    unit: tiles
     pose:
-      x: 0.6
-      y: 0.6
+      x: 1.8
+      y: 0.85
       z: 0
       roll: 0
       pitch: 0
-      yaw: 2.356
+      yaw: 0.0
+  map_0/duckie_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_8:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_9:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_10:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_11:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_12:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_13:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_14:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_15:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_16:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_17:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_18:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_19:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_20:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_21:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_22:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_23:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 1.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_24:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/duckie_25:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.8
+      y: 0.85
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+
   map_0/vehicle_0/cameraman_0:
     relative_to: ~
     pose:

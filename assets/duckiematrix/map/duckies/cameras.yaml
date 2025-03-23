@@ -22,27 +22,6 @@ cameras:
     height: 480
     framerate: 30
 
-  map_0/watchtower_0/camera_0:
-    name: camera_0
-    camera_matrix:
-    - - 660.6097258387734
-      - 0.0
-      - 666.1286353228712
-    - - 0.0
-      - 655.86300048622
-      - 449.6610328990732
-    - - 0.0
-      - 0.0
-      - 1.0
-    distortion_parameters:
-    - -0.312
-    - 0.06826
-    - 0.0015
-    - 0.00091
-    - 0.0
-    width: 1296
-    height: 972
-    framerate: 30
 
   map_0/vehicle_0/cameraman_0/camera_0:
     name: camera_0

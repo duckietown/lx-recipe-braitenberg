@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 -m __solution__.main
+python3 -m braitenberg_agent.agent
