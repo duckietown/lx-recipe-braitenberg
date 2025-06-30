@@ -20,7 +20,7 @@ cameras:
     - 0.0
     width: 640
     height: 480
-    framerate: 30
+    frame_rate: 30
 
 
   map_0/vehicle_0/cameraman_0/camera_0:
@@ -43,4 +43,4 @@ cameras:
     - 0.0
     width: 1920
     height: 1080
-    framerate: 30
+    frame_rate: 30
