@@ -29,7 +29,7 @@ class RandomDuckiePlacementScript(MatrixEntityBehavior):
 
     def update(self, _: float) -> None:
         """Update."""
-        if self.pose:
-            self.pose.x = self._random_x
-            self.pose.y = self._random_y
-            self.pose.commit()
+        if self.state:
+            self.state.x = self._random_x
+            self.state.y = self._random_y
+            self.state.commit()
