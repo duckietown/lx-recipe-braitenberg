@@ -44,9 +44,3 @@ for more details on how to deploy this capability through the `dts code` API.
 You can define the exact configuration of the Duckiematrix environment in the 
 [assets/duckiematrix](./assets/duckiematrix) directory. For more details see
 [the Duckiematrix manual](https://docs.duckietown.com/ente/devmanual-duckiematrix/intro.html).
-
-## noVNC Customization
-
-It is also possible to customize the noVNC desktop. 
-TODO: add details. 
-
